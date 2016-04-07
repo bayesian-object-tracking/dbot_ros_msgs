@@ -45,7 +45,8 @@ find_package(catkin REQUIRED
 ## Generate messages in the 'msg' folder
 add_message_files(
   FILES
-  ObjectStates.msg
+  ObjectsState.msg
+  ObjectState.msg
 )
 
 ## Generate services in the 'srv' folder
