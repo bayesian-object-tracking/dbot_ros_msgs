@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+  <name>dbot_ros_msg</name>
+  <version>0.0.0</version>
+  <description>The dbot_ros package</description>
+
+  <maintainer email="jan.issac@gmail.com">Jan Issac</maintainer>
+
+  <license>GPL</license>
+
+  <url type="website">http://github.com/jan-issac/dbot_ros_msg</url>
+
+  <author email="jan.issac@gmail.com">Jan Issac</author>
+  <author email="manuel.wuthrich@gmail.com">Manuel Wuthrich</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>std_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+
+  <run_depend>std_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+
+  <export>
+    <!-- <metapackage/> -->
+  </export>
+</package>
+/package>
