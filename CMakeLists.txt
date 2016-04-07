@@ -7,6 +7,7 @@ project(dbot_ros_msg)
 find_package(catkin REQUIRED
   sensor_msgs
   std_msgs
+  message_generation
 )
 
 ## System dependencies are found with CMake's conventions
