@@ -1,4 +1,4 @@
 string name
 ObjectOri ori
 geometry_msgs/PoseStamped pose
-geometry_msgs/PoseStamped velocity
+geometry_msgs/TwistStamped velocity
